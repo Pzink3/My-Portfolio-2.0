@@ -36,7 +36,4 @@ body {
 .elanor {
 	margin-left: 15%;
 }
-$('#myModal').modal(options)
-$('#myModal').modal({
-  keyboard: false
-})
+
