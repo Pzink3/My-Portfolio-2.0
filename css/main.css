@@ -22,13 +22,13 @@ body {
 	display: inline-flex;
 }
 .first-paragraph {
-	padding-left: 30px;
+	padding-left: 50px;
 }
 .second-paragraph {
-	padding-left: 85px;
+	padding-left: 35px;
 }
 .third-paragraph {
-	padding-left: 70px;
+	padding-left: 20px;
 }
 .elanor {
 	margin-left: 15%;
