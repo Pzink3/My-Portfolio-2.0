@@ -1,7 +1,9 @@
 
 body {
 	background-color: red;
+	font-family: 'News Cycle', sans-serif;
 }
+
 .modal-content {
 	color: white;
 }
