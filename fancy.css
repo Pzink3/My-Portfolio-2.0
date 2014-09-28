@@ -1,4 +1,5 @@
-.link2
+
+.link3
 {
    border: solid 2px #aaa;
    border-radius: 3x;
@@ -12,4 +13,3 @@
    padding: 3px;
    display: inline-block;
 }
-.link2:hover { background-color: #acea11; }
