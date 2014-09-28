@@ -25,13 +25,13 @@ body {
 	display: inline-flex;
 }
 .first-paragraph {
-	padding-left: 50px;
+	padding-left: 75px;
 }
 .second-paragraph {
-	padding-left: 35px;
+	padding-left: 175px;
 }
 .third-paragraph {
-	padding-left: 20px;
+	padding-left: 115px;
 }
 
 .elanor {
